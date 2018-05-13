@@ -1,0 +1,16 @@
+{
+  "name": "ddbot",
+  "version": "1.0.0",
+  "description": "Bot For Estia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Espriit",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "uws": "^10.148.0"
+  }
+}
